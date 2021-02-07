@@ -1,0 +1,24 @@
+{
+  "name": "continuousincreasingsubsequence",
+  "version": "1.0.0",
+  "description": "continuous increasing subsequence",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikbhumkar/d1efa8f7-411d-4e45-8273-5bb0cedae557.git"
+  },
+  "author": "Pratik Bhumkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikbhumkar/d1efa8f7-411d-4e45-8273-5bb0cedae557/issues"
+  },
+  "homepage": "https://github.com/pratikbhumkar/d1efa8f7-411d-4e45-8273-5bb0cedae557#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.12.13",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}
