@@ -4,8 +4,15 @@
   "description": "continuous increasing subsequence",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pratikbhumkar/d1efa8f7-411d-4e45-8273-5bb0cedae557.git"
