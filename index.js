@@ -1,4 +1,4 @@
-import findIncreasingSubArray from "./IncreasingSubarrayFinder";
+import findIncreasingSubArray from "./IncreasingSubarrayFinder.js";
 export default function IncreasingSubArrayRunner(inputString){
     var inputArray = inputString.split(" ");
     var increasingSubArray = findIncreasingSubArray(inputArray)
